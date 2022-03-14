@@ -1,5 +1,7 @@
 # Full-Stack-Mern-App
+
 ## Install dependencies
+
 ### Backend deps
 npm install
 
@@ -8,6 +10,6 @@ cd frontend
 npm install
 
 ## Run Server
-### npm run server
+npm run server
 
 ## Demo App to link below
